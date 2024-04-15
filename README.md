@@ -1,3 +1,3 @@
 # Variables
 
-Add a line to triger workflow
+Add a line to triger workflows
